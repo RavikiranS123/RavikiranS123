@@ -7,10 +7,15 @@ Results-driven Cloud Engineer with 4 years of experience specializing in AWS and
 Technology & Tools📈📊
 
 Cloud Platforms: AWS (EC2, S3, VPC, IAM, ELB, Route53, EFS), Azure
+
 IaC & Automation: Terraform, Ansible
+
 Monitoring: Prometheus, Grafana
+
 Languages & Scripting: Bash, Python (basic)
+
 Build Tools: Jenkins Pipelines
+
 Incident handling : ServiceNow
 ==========================================================================================================================================================
 
