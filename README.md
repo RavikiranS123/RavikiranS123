@@ -16,7 +16,7 @@ Languages & Scripting: Bash, Python (basic)
 
 Build Tools: Jenkins Pipelines
 
-Incident handling : ServiceNow
+                 
 ==========================================================================================================================================================
 
 
